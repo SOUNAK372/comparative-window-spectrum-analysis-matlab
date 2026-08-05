@@ -52,13 +52,15 @@ comparative-window-spectrum-analysis-matlab
 
 ### Window Analysis
 
-![Output](Images/Output.png)
+![Output](<img width="1200" height="900" alt="Output" src="https://github.com/user-attachments/assets/ec750208-896b-4d9d-93eb-c3741dc1ba95" />
+)
 
 ---
 
 ### Comparison of Window Functions
 
-![Comparison](Images/Comparison.png)
+![Comparison](<img width="1200" height="900" alt="Comparison" src="https://github.com/user-attachments/assets/3e469b1c-ef00-42ed-a17b-1944f00ac07c" />
+)
 
 ---
 
